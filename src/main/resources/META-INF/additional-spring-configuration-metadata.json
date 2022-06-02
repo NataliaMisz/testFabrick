@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "banking.path",
+    "type": "java.lang.String",
+    "description": "A description for 'banking.path'"
+  },
+  {
+    "name": "base.url",
+    "type": "java.lang.String",
+    "description": "A description for 'base.url'"
+  },
+  {
+    "name": "account.id",
+    "type": "java.lang.String",
+    "description": "A description for 'account.id'"
+  },
+  {
+    "name": "api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'api.key'"
+  },
+  {
+    "name": "auth.schema",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.schema'"
+  }
+]}
